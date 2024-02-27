@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning  Java Spring boots<br>🎯 Goals: Create apps with ror</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning  Java Spring boot<br>🎯 Goals: Create apps with ror</p>
 
 ###
 
